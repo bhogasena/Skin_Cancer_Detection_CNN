@@ -41,6 +41,7 @@ Telecom Users Usage Dataset [here](https://drive.google.com/drive/folders/14wHbl
 - matplotlib - version 3.2.2
 - seaborn - version 0.11.2
 - sklearn - version 1.0.2
+- keras - version 2.9.0
 
 ## Contact
 Created by [@bhogasena] - feel free to contact me!
